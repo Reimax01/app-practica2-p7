@@ -12,6 +12,8 @@ body {
 	background-size:cover;
 	color:#fff;
 	font-size: 16px;
+	max-width: 100%;
+    height: auto;
 }
 
 .wrap {
